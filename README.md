@@ -1,11 +1,9 @@
 [![MasterHead](https://github.com/krish-yadav23/krish-yadav23.github.io/blob/main/mario_coder.gif)](https://krish-yadav23.github.io/#)
-<h1 align="center">Hi 👋, I'm Krishna Kumar</h1>
+<h1 align="center">Hello World 👋, I'm Krishna Kumar</h1>
 <h3 align="left">A passionate Software Developer.</h3>
 <img align="center" alt="Coder waving" width="400" src="https://github.com/krish-yadav23/krish-yadav23.github.io/blob/main/coder_waving.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish-yadav23&label=Profile%20views&color=0e75b6&style=flat" alt="krish-yadav23" /> </p>
-
-<!--><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krish-yadav23" alt="krish-yadav23" /></a> </p><-->
 
 - 🔭 I’m currently working on **Computer Vision and Generative AI.**
 
