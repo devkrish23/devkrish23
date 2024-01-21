@@ -37,4 +37,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krish-yadav23&show_icons=true&locale=en&layout=compact" alt="krish-yadav23" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krish-yadav23&show_icons=true&locale=en" alt="krish-yadav23" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=krish-yadav23&show_icons=true&locale=en" alt="krish-yadav23" /></p>
