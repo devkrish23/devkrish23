@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/krish-yadav23/krish-yadav23.github.io/blob/main/mario_coder.gif)](https://krish-yadav23.github.io/#)
 <h1 align="center">Hi 👋, I'm Krishna Kumar</h1>
 <h3 align="center">A passionate Software Developer.</h3>
-<img align="right" alt="Coder waving" width="400" src="https://github.com/krish-yadav23/krish-yadav23.github.io/blob/main/coder_waving.gif">
+<img align="center" alt="Coder waving" width="400" src="https://github.com/krish-yadav23/krish-yadav23.github.io/blob/main/coder_waving.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish-yadav23&label=Profile%20views&color=0e75b6&style=flat" alt="krish-yadav23" /> </p>
 
