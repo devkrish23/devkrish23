@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/krish-yadav23/krish-yadav23.github.io/blob/main/mario_coder.gif)](https://krish-yadav23.github.io/#)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&random=false&width=500&lines=Hello+World+👋,+I'm+Krishna+Kumar+Yadav;I'am+a+passionate+software+developer;I+have+7+years+of+experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1400&center=true&random=false&width=1000&lines=Hello+👋,+I'm+Krishna+Kumar+Yadav,+I+have+7+years+of+experience.;Pursuing+M.S.+in+CS+from+University+of+North+Carolina+at+Charlotte(UNCC);I'am+a+Research+Assistant+at+UNCC;I'am+a+passionate+software+developer.;I'am+a+Deep+Learning+and+Generative+AI+enthusiast;)](https://git.io/typing-svg)
 
 <h3 align="left">A passionate Software Developer.</h3>
 <img align="center" alt="Coder waving" width="400" src="https://github.com/krish-yadav23/krish-yadav23.github.io/blob/main/coder_waving.gif">
