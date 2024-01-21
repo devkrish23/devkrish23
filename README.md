@@ -32,7 +32,13 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/krishnakumar23"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="krishnakumar23" /></a></p><br><br>
+<table>
+  <thead>
+    <tr>
+      <th><p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=krish-yadav23&show_icons=true&locale=en" alt="krish-yadav23" /></p></th>
+      <th><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krish-yadav23&show_icons=true&locale=en&layout=compact" alt="krish-yadav23" /></p></th>
+    </tr>
+  </thead>
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krish-yadav23&show_icons=true&locale=en&layout=compact" alt="krish-yadav23" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=krish-yadav23&show_icons=true&locale=en" alt="krish-yadav23" /></p>
