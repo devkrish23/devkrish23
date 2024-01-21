@@ -1,25 +1,25 @@
 [![MasterHead](https://github.com/krish-yadav23/krish-yadav23.github.io/blob/main/mario_coder.gif)](https://krish-yadav23.github.io/#)
 <h1 align="center">Hi 👋, I'm Krishna Kumar</h1>
-<h3 align="center">A passionate Software Developer.</h3>
+<h3 align="left">A passionate Software Developer.</h3>
 <img align="center" alt="Coder waving" width="400" src="https://github.com/krish-yadav23/krish-yadav23.github.io/blob/main/coder_waving.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish-yadav23&label=Profile%20views&color=0e75b6&style=flat" alt="krish-yadav23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krish-yadav23" alt="krish-yadav23" /></a> </p>
+<!--><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krish-yadav23" alt="krish-yadav23" /></a> </p><-->
 
 - 🔭 I’m currently working on **Computer Vision and Generative AI.**
 
 - 🌱 I’m currently learning **Deep Learning and Generative AI.**
 
-- 👨‍💻 All of my projects are available at [https://krish-yadav23.github.io/#](https://krish-yadav23.github.io/#)
+- 👨‍💻 All of my projects are available at [KrishnaKumar](https://krish-yadav23.github.io/#)
 
 - 💬 Ask me about **Python, data engineering, and deep learning.**
 
 - 📫 How to reach me **krishna158@live.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iMVRp82QwIRZSnWETJ1KHGLOvjFteTQi/view](https://drive.google.com/file/d/1iMVRp82QwIRZSnWETJ1KHGLOvjFteTQi/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iMVRp82QwIRZSnWETJ1KHGLOvjFteTQi/view)
 
-- ⚡ Fun fact **I am a Wizard, I turn code into magic!**
+- ⚡ Fun fact **: I am a Wizard, I turn code into magic!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
