@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/krish-yadav23/krish-yadav23.github.io/blob/main/mario_coder.gif)](https://krish-yadav23.github.io/#)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1400&center=true&random=false&width=1000&lines=Hello+👋,+I'm+Krishna+Kumar+Yadav,+I+have+7+years+of+experience+🧑🏽‍💻;Pursuing+M.S.+in+CS+from+University+of+North+Carolina+at+Charlotte(UNCC)🎓;I'm+a+Research+Assistant+at+UNCC.;I'm+a+passionate+software+developer+🧑🏽‍💻;I'm+a+Deep+Learning+and+Generative+AI+enthusiast+🤖;)](https://git.io/typing-svg)
 
-<h3 align="left">A passionate Software Developer.</h3>
+<h3 align="left">Passionate Software Developer.</h3>
 <img align="right" alt="Coder waving" width="400" src="https://github.com/krish-yadav23/krish-yadav23.github.io/blob/main/coder_waving.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish-yadav23&label=Profile%20views&color=0e75b6&style=flat" alt="krish-yadav23" /> </p>
