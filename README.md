@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Deep Learning and Generative AI.**
 
-- 👨‍💻 All of my projects are available at [KrishnaKumar](https://krish-yadav23.github.io/#)
+- 👨‍💻 All of my projects are available at [**KrishnaKumar**](https://www.devkrish.com/)
 
 - 💬 Ask me about **Python, data engineering, and deep learning.**
 
 - 📫 How to reach me **krishna158@live.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iMVRp82QwIRZSnWETJ1KHGLOvjFteTQi/view)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1iMVRp82QwIRZSnWETJ1KHGLOvjFteTQi/view)
 
 - ⚡ Fun fact **: I am a Wizard, I turn code into magic!**
 
